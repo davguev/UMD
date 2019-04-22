@@ -1,11 +1,11 @@
-POLÍTICA DE PRIVACIDAD PARA UMD
+#POLÍTICA DE PRIVACIDAD PARA UMD
  
 Esta política de privacidad aplica para la aplicación UMD para dispositivos móviles que fue creada por ICONOI S.A. La aplicación es una herramienta para personas con necesidades médicas que no están afiliadas a Colmédica, pero quieren tener acceso a sus centros médicos, en los que se encontrarán horarios, listados de servicios y dirección. También se podrán visualizar noticias y recibir notificaciones sobre nuevos centros médicos o citas médicas programadas.
 La aplicación utiliza los servicios de OneSignal como herramienta para enviar notificaciones, la cual por medio del identificador de publicidad de Android obtiene analíticas sobre las notificaciones enviadas y los dispositivos que las reciben, como aplicaciones instaladas (se basa en una lista limitada), localización o información de red inalámbrida, identificadores de publicidad, correos electrónicos (encriptados y que pueden desencriptar a discreción), tipo de dispositivo, sistema operativo, proveedor de red, navegador web, configuración de idioma, zona horaria y estado de la red a la que se está conectado.
-Información proveída por el usuario
+###Información proveída por el usuario
 El servidor de OneSignal obtiene la información que el usuario dé cuando se descargue la aplicación y se reciban notificaciones. La aplicación obtiene la información que el usuario provea al registrarse o iniciar sesión, lo cual es opcional. Hay que tener en cuenta que, si no se inicia sesión, algunas opciones pueden estar deshabilitadas.
 Cuando se registra con nosotros y usa la aplicación, se proveen nombres completos, el tipo y número de identificación y la contraseña.
-Información recolectada automáticamente
+###Información recolectada automáticamente
 Adicionalmente, la aplicación (específicamente el servidor de notificaciones) puede recolectar cierta información automáticamente, incluyendo, pero no limitado, al tipo de dispositivo que se use, el identificador único del dispositivo, la dirección IP del dispositivo móvil, el sistema operativo, el tipo de red que usa el dispositivo (móvil, WiFi), navegadores que se usan, localización al recibir notificaciones, información acerca del uso que se le da a la aplicación. Esta información es anonimizada y ayuda a los proveedores externos para mejorar sus servicios.
 OneSignal, nuestro proveedor de notificaciones push, tendrá acceso a datos personales: cookies; datos de uso; dirección de correo electrónico; distintas clases de datos, según se especifica en la Política de Privacidad del servicio; identificadores únicos de dispositivo para publicidad (ID de publicidad de Google o IDFA, por ejemplo); idioma; posición geográfica.
 ICONOI S.A. y Colmédica Medicina Prepagada tendrá acceso a la información de sincronización entre dispositivo y servidor.
@@ -17,13 +17,13 @@ Podremos revelar la información proveída por el usuario y recolectada automát
 ·	con nuestros proveedores de servicios confiables que trabajan por nosotros, no tienen uso independiente de la información que les revelamos y que han aceptado adherirse a las reglas que se estipulan en esta política de privacidad;
 ·	si ICONOI S.A. es involucrado en una unión, adquisición o venta de toda o una porción de su valor, se informará en nuestro sitio web acerca de los cambios de propiedad o de los usos de esta información, así como las opciones ofrecidas con respecto a esta información;
 El usuario puede detener la recolección de toda la información por parte de la aplicación y de servicios externos desinstalando la aplicación. Se pueden usar los procesos estándar de desinstalación. Para darse de baja con Colmédica Medicina Prepagada, se recomienda contactar con el soporte de esta empresa por medio de su formulario de contacto en https://www.colmedica.com/clientes/oficina-virtual/Paginasborrar/contactenos.aspx.
-Política de retención de datos, manejo de información
+###Política de retención de datos, manejo de información
 Retendremos la información proveída por el usuario tanto como se use la aplicación y por un tiempo razonable después de darse de baja. Si quiere que se elimine su información proveída, por favor contacte con Colmédica Medicina Prepagada por medio de su formulario de contacto https://www.colmedica.com/clientes/oficina-virtual/Paginasborrar/contactenos.aspx y responderán en un tiempo razonable. Por favor, note que alguna información proveída es requerida para que la aplicación funcione apropiadamente.
-Menores de edad
+###Menores de edad
 No usamos la aplicación para solicitar datos de menores de edad. Si un padre o acudiente se entera de que un menor a cargo nos ha enviado información sin su consentimiento, pueden contactar con Colmédica Medicina Prepagada en su formulario de contacto https://www.colmedica.com/clientes/oficina-virtual/Paginasborrar/contactenos.aspx. Eliminaremos esta información de nuestros archivos en un tiempo razonable.
-Seguridad
+###Seguridad
 Somos conscientes de la importancia de guardar la confidencialidad de su información. Tenemos métodos de seguridad para proteger la información que nos es enviada, como envío de datos por protocolo HTTPS e inicio de sesión con datos encriptados. Por ejemplo, limitamos el acceso de esta información para empleados autorizados y contratistas que necesiten esta información para operar, desarrollar o mejorar la aplicación. Por favor, tenga en cuenta que, aunque proveemos niveles de seguridad razonables para la información que procesamos y mantenemos, ningún sistema de seguridad puede prevenir todas las potenciales brechas de seguridad.
-Cambios
+###Cambios
 Esta política de privacidad puede ser actualizada periódicamente por cualquier razón. Se publicarán los cambios en la política de privacidad en la Play Store. Se recomienda revisar la política de privacidad regularmente en caso de haber cambios. 
-Su consentimiento
+###Su consentimiento
 Usando esta aplicación, nos da consentimiento para procesar su información como se describe en esta política de privacidad ahora y en el futuro. "Procesar" significa usar la información en cualquier forma incluyendo, pero no limitado, a recolectar, guardar, eliminar, usar, combinar y revelar información, actividades que se harán en Colombia.
